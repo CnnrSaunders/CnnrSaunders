@@ -59,8 +59,11 @@ I'm a final year student @ Monash University.
 while(alive) {
     buildCoolStuff();
 }
-<div align="center">
-Thanks for stopping by ✨
-</div>
 ```
+
+<div align="center">
+
+### Thanks for stopping by ✨
+
+</div>
 
